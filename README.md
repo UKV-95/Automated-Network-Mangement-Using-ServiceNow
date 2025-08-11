@@ -37,5 +37,6 @@ This project delivers a **streamlined, automated solution** for managing network
 ## 📄 License
 
 This project is intended for demonstration and educational purposes.
-
+📷video 
+https://drive.google.com/drive/folders/1KA6i945Vdncf3no0lZvEwAzONvsytdos?usp=sharing
 
